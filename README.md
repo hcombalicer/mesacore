@@ -5,7 +5,7 @@ The unified API and AI Agent for structured recipes, allergen-safe cooking, and 
 Generic AI tools often suggest impractical recipes or ignore life-critical allergen constraints. **MesaCore** provides a "Grounded" data layer. It allows AI Agents to query a verified database for recipes based on ingredients-on-hand, dietary restrictions, and specific caloric targets.
 
 ## 🛠️ Tech Stack
-*   **Language:** Python 3.11+ (FastAPI)
+*   **Language:** Python (FastAPI)
 *   **Infrastructure:** Google Cloud Platform (GCP)
 *   **Database:** Firestore (NoSQL)
 *   **AI Orchestration:** TBD
